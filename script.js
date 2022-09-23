@@ -10,7 +10,8 @@ const nav = document.querySelector('.nav');
 const tabs = document.querySelectorAll('.operations__tab');
 const tabsContainer = document.querySelector('.operations__tab-container');
 const tabsContent = document.querySelectorAll('.operations__content');
-console.log('suriePee')
+
+console.log('suray-ray')
 ///////////////////////////////////////
 // Modal window
 
